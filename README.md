@@ -25,6 +25,6 @@ Next, there are several solutions that will help you learn and understand deep l
 * [Image classification ImageNet](solutions/image_classification_imagenet)
 * [Neural algorithm of artistic style in images](solutions/neural_artistic_style)
 * [Word prediction from characters](solutions/word_prediction_from_char)
-* [Sentiment Analisys](solutions/sentiment_analysis)
+* [Sentiment Analysis](solutions/sentiment_analysis)
 * [Generative Adversarial Networks](solutions/generative_adversarial_networks)
 * [General machine learning examples](solutions/general_examples)
