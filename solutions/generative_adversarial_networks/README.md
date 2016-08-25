@@ -1,6 +1,6 @@
 # Generative Adversarial Networks
 
-In this folder there is a colection of generative adversarial network (GAN) examples. GANs are considered by some of the
+In this folder there is a collection of generative adversarial network (GAN) examples. GANs are considered by some of the
 top deep learning scientists the most important advance for the field in the last 10 years. See this [quora answer]
 (https://www.quora.com/What-are-some-recent-and-potentially-upcoming-breakthroughs-in-deep-learning) by
 LeCun. Specifically they are the most important advance in unsupervised learning.
@@ -12,17 +12,20 @@ NOTE: to run this example you will have to install [opencv](http://opencv.org/).
 
 ## Download database
 
-To download the MNIST database:
+- To download the MNIST database:
 
-    cd data
-    python download_mnist_data.sh
+```bash
+cd data
+python download_mnist_data.sh
+```
 
 ## Run Generative Adversarial Networks
 
-To run an example of GAN using MNIST character recognotions database: 
+To run an example of GAN using MNIST character recognotion database: 
 
-* GAN with MNIST semisupervised:
-    
-    cd python/mxnet  
-    python gan_mnist_semisupervised.py
-    
+- GAN with MNIST semisupervised:
+
+```bash
+cd python/mxnet  
+python gan_mnist_semisupervised.py
+```
