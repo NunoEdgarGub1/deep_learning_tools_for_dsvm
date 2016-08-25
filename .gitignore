@@ -27,3 +27,4 @@ solutions/word_prediction_from_char/data/tiny_shakespeare.txt
 solutions/neural_artistic_style/data/tmp*.jpg
 solutions/neural_artistic_style/data/out.jpg
 solutions/neural_artistic_style/data/*.params
+.Rproj.user
